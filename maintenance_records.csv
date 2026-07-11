@@ -1,0 +1,201 @@
+work_order_id,asset_id,maintenance_date,maintenance_type,description,priority,status,contractor,labour_hours,material_cost,labour_cost,total_cost,completion_date
+WO-00001,WA-0026,2023-08-14,Emergency Repair,Hydrant Testing completed for asset WA-0026,High,Cancelled,Rotorua Water Works,9.0,4460.32,940.93,5401.25,2023-08-18
+WO-00002,WA-0068,2022-08-10,Inspection,Inspection completed for asset WA-0068,Medium,Completed,Bay Utility Services,9.7,42.45,897.69,940.14,2022-08-13
+WO-00003,WA-0096,2023-08-16,Pipe Replacement,Leak Repair completed for asset WA-0096,Medium,Completed,Bay Utility Services,2.8,2179.15,254.1,2433.25,2023-09-02
+WO-00004,WA-0070,2022-01-01,Inspection,Preventive Maintenance completed for asset WA-0070,High,Completed,Council Internal Crew,17.3,4023.09,1494.15,5517.24,2022-01-07
+WO-00005,WA-0040,2022-05-17,Pump Service,Pump Service completed for asset WA-0040,Medium,Completed,Arawa Civil,1.6,1585.18,175.33,1760.51,2022-05-27
+WO-00006,WA-9999,2026-07-22,Emergency Repair,Hydrant Testing completed for asset WA-0022,Low,Completed,Bay Utility Services,7.0,3461.58,685.09,4146.67,2026-07-27
+WO-00007,WA-0090,2022-12-12,Emergency Repair,Pipe Replacement completed for asset WA-0090,Low,Completed,Arawa Civil,4.7,3071.12,473.21,3544.33,2022-12-17
+WO-00008,WA-0039,2026-03-28,Pipe Replacement,Pump Service completed for asset WA-0039,Medium,Completed,Arawa Civil,7.1,326.64,793.85,1120.49,2026-04-01
+WO-00009,WA-0086,2026-08-02,Emergency Repair,Leak Repair completed for asset WA-0086,Low,Open,Council Internal Crew,9.2,3458.71,787.98,4246.69,
+WO-00010,WA-0051,2023-06-16,Pump Service,Hydrant Testing completed for asset WA-0051,Medium,Open,Council Internal Crew,4.6,4338.78,502.15,4840.93,
+WO-00011,WA-0078,2024-10-22,Leak Repair,Preventive Maintenance completed for asset WA-0078,Medium,Open,Bay Utility Services,13.7,347.18,1791.48,2138.66,
+WO-00010,WA-0076,2022-04-25,Preventive Maintenance,Emergency Repair completed for asset WA-0076,Low,Completed,Council Internal Crew,10.1,3977.8,954.38,4932.18,2022-05-13
+WO-00013,WA-0044,2022-05-05,Inspection,Inspection completed for asset WA-0044,Low,Completed,Arawa Civil,14.0,2940.98,1228.54,4169.52,2022-05-10
+WO-00014,WA-0012,2024-04-11,Pipe Replacement,Leak Repair completed for asset WA-0012,Medium,Completed,Bay Utility Services,14.1,2423.36,1821.23,4244.59,2024-04-22
+WO-00015,WA-0057,2024-09-22,Pipe Replacement,Preventive Maintenance completed for asset WA-0057,Medium,Open,Arawa Civil,4.9,2603.73,442.7,3046.43,
+WO-00016,WA-0040,2024-05-02,Emergency Repair,Inspection completed for asset WA-0040,Low,Cancelled,Bay Utility Services,16.1,4158.48,1535.53,5694.01,2024-05-06
+WO-00017,WA-0095,2023-11-14,Emergency Repair,Pump Service completed for asset WA-0095,Medium,Completed,Rotorua Water Works,16.3,1291.47,2183.17,3474.64,2023-11-29
+WO-00018,,2024-11-10,Inspection,Pipe Replacement completed for asset WA-0061,High,Open,Council Internal Crew,16.8,1585.19,1467.49,3052.68,
+WO-00019,WA-0041,2022-09-20,Pump Service,Inspection completed for asset WA-0041,Low,Completed,Council Internal Crew,9.8,2318.55,945.53,3264.08,2022-09-23
+WO-00020,WA-0091,2022-08-12,Inspection,Pump Service completed for asset WA-0091,High,Completed,Arawa Civil,7.4,3716.79,793.49,4510.28,2022-08-13
+WO-00021,WA-0022,2024-07-12,Inspection,Emergency Repair completed for asset WA-0022,Medium,In Progress,Council Internal Crew,13.8,4409.49,1359.05,5768.54,
+WO-00022,WA-0011,2024-12-02,Leak Repair,Pump Service completed for asset WA-0011,Medium,Completed,Bay Utility Services,5.3,2574.5,591.89,3166.39,2024-12-17
+WO-00023,WA-0082,2022-11-22,Leak Repair,Hydrant Testing completed for asset WA-0082,Urgent,Completed,Bay Utility Services,11.6,2740.21,1023.97,3764.18,2022-11-29
+WO-00024,WA-0056,2023-05-08,Hydrant Testing,Pipe Replacement completed for asset WA-0056,Low,Completed,Bay Utility Services,9.8,4473.69,1133.76,5607.45,2023-05-09
+WO-00025,WA-0068,31/31/2025,Pipe Replacement,Hydrant Testing completed for asset WA-0068,Urgent,Completed,Council Internal Crew,5.5,486.96,584.22,1071.18,2026-04-18
+WO-00026,WA-0023,2026-11-25,Leak Repair,Pump Service completed for asset WA-0023,Medium,Completed,Rotorua Water Works,6.2,3867.45,590.33,4457.78,2026-12-07
+WO-00027,WA-0078,2022-08-15,Emergency Repair,Emergency Repair completed for asset WA-0078,Medium,In Progress,Rotorua Water Works,10.5,703.15,1246.26,1949.41,
+WO-00028,WA-0053,2022-10-09,Leak Repair,Pump Service completed for asset WA-0053,Medium,Completed,Bay Utility Services,1.1,3234.46,133.3,3367.76,2022-10-27
+WO-00029,WA-0017,2024-04-30,Hydrant Testing,Preventive Maintenance completed for asset WA-0017,High,Completed,Rotorua Water Works,3.6,280.2,383.73,663.93,2024-05-17
+WO-00030,WA-0045,2022-04-28,Preventive Maintenance,Emergency Repair completed for asset WA-0045,Medium,Completed,Rotorua Water Works,11.8,3408.93,1276.27,4685.2,2022-05-02
+WO-00031,WA-0035,2023-03-18,Pump Service,Leak Repair completed for asset WA-0035,Medium,Completed,Rotorua Water Works,13.3,1298.46,1585.95,2884.41,2023-04-04
+WO-00032,WA-0020,2026-02-14,Pipe Replacement,Hydrant Testing completed for asset WA-0020,Low,Open,Rotorua Water Works,3.6,3665.21,383.17,4048.38,
+WO-00033,WA-0021,2022-02-17,Emergency Repair,Pipe Replacement completed for asset WA-0021,Urgent,In Progress,Council Internal Crew,14.6,4164.09,1502.3,5666.39,
+WO-00034,WA-0026,2024-02-01,Leak Repair,Pump Service completed for asset WA-0026,High,Completed,PipeTech NZ,15.2,712.25,1687.66,2399.91,2024-01-01
+WO-00035,WA-0066,2023-02-23,Emergency Repair,Leak Repair completed for asset WA-0066,Medium,Completed,Rotorua Water Works,13.4,333.1,1439.0,1772.1,2023-02-26
+WO-00036,WA-0088,2023-01-16,Emergency Repair,Pipe Replacement completed for asset WA-0088,Low,Completed,PipeTech NZ,8.7,4204.24,1021.84,5226.08,2023-01-20
+WO-00037,WA-0097,2024-05-10,Leak Repair,Hydrant Testing completed for asset WA-0097,Low,Completed,Council Internal Crew,12.8,1082.66,1289.98,2372.64,2024-05-25
+WO-00038,WA-0071,2025-05-15,Leak Repair,Inspection completed for asset WA-0071,High,Completed,PipeTech NZ,13.7,1321.9,1666.16,2988.06,2025-05-30
+WO-00039,WA-0037,2022-01-13,Leak Repair,Emergency Repair completed for asset WA-0037,Medium,Completed,Bay Utility Services,6.0,1619.0,566.42,2185.42,2022-01-20
+WO-00040,WA-0041,2023-05-02,Pump Service,Preventive Maintenance completed for asset WA-0041,Medium,Completed,Council Internal Crew,16.6,500.87,2003.74,2504.61,2023-05-21
+WO-00041,WA-0097,2025-09-05,Leak Repair,Pump Service completed for asset WA-0097,Medium,Completed,Council Internal Crew,4.2,1370.88,462.7,1833.58,2025-09-22
+WO-00042,WA-0042,2024-09-12,Emergency Repair,Pump Service completed for asset WA-0042,Medium,Open,Rotorua Water Works,12.0,-300,1607.29,-50,
+WO-00043,WA-0033,2024-12-31,Pipe Replacement,Pipe Replacement completed for asset WA-0033,High,Completed,Rotorua Water Works,7.3,1269.9,718.47,1988.37,2024-12-31
+WO-00044,WA-0079,2022-05-25,Preventive Maintenance,Pipe Replacement completed for asset WA-0079,Urgent,Completed,Arawa Civil,8.3,3870.19,807.13,4677.32,2022-06-14
+WO-00045,WA-0026,2025-03-30,Emergency Repair,Pump Service completed for asset WA-0026,High,Completed,Bay Utility Services,4.7,4121.09,510.12,4631.21,2025-04-13
+WO-00046,WA-0046,2023-09-04,Hydrant Testing,Inspection completed for asset WA-0046,Medium,Completed,Bay Utility Services,3.0,4356.27,362.64,4718.91,2023-09-08
+WO-00047,WA-0066,2022-03-26,Hydrant Testing,Pipe Replacement completed for asset WA-0066,High,Completed,Arawa Civil,4.5,2404.37,449.81,2854.18,2022-04-12
+WO-00048,WA-0094,2022-04-05,Emergency Repair,Pump Service completed for asset WA-0094,Urgent,Completed,Bay Utility Services,1.4,3105.02,165.07,3270.09,2022-04-17
+WO-00049,WA-0041,2026-06-08,Pipe Replacement,Leak Repair completed for asset WA-0041,Low,Completed,Rotorua Water Works,13.4,2099.55,1207.55,3307.1,2026-06-27
+WO-00050,WA-0028,2024-11-10,Emergency Repair,Leak Repair completed for asset WA-0028,Medium,Completed,Arawa Civil,8.8,717.77,819.23,1537.0,2024-11-26
+WO-00051,WA-0057,2025-08-10,Pipe Replacement,Pipe Replacement completed for asset WA-0057,Low,Completed,Rotorua Water Works,1.2,4446.25,120.33,4566.58,2025-08-10
+WO-00052,WA-0063,2025-10-05,Inspection,Preventive Maintenance completed for asset WA-0063,Low,Completed,PipeTech NZ,13.9,604.2,1494.93,2099.13,2025-10-06
+WO-00053,WA-0053,2023-05-22,Pump Service,Emergency Repair completed for asset WA-0053,Medium,Completed,Rotorua Water Works,16.9,2398.26,1594.12,3992.38,2023-05-24
+WO-00054,WA-0017,2025-11-20,Inspection,Pump Service completed for asset WA-0017,Low,Completed,Arawa Civil,3.5,4199.6,397.19,4596.79,2025-11-20
+WO-00055,WA-0049,2024-12-22,Inspection,Hydrant Testing completed for asset WA-0049,Low,Open,Rotorua Water Works,9.1,3212.16,1123.2,4335.36,
+WO-00056,WA-0089,2022-11-10,Preventive Maintenance,Inspection completed for asset WA-0089,Low,Cancelled,Council Internal Crew,16.5,2035.09,1682.16,3717.25,2022-11-19
+WO-00057,WA-0063,2025-05-10,Inspection,Preventive Maintenance completed for asset WA-0063,Medium,Completed,Rotorua Water Works,6.2,3487.05,792.44,4279.49,2025-05-24
+WO-00058,WA-0033,2026-06-07,leak repair,Emergency Repair completed for asset WA-0033,Medium,In Progress,Bay Utility Services,7.0,962.68,840.32,1803.0,
+WO-00059,WA-0048,2024-01-27,Inspection,Hydrant Testing completed for asset WA-0048,Medium,Completed,PipeTech NZ,13.0,4378.57,1340.4,5718.97,2024-02-05
+WO-00060,WA-0088,2022-05-24,Emergency Repair,Pump Service completed for asset WA-0088,Low,Completed,Arawa Civil,6.1,719.58,638.58,1358.16,2022-06-10
+WO-00061,WA-0030,2022-03-28,Pipe Replacement,Inspection completed for asset WA-0030,Medium,Completed,Bay Utility Services,1.6,1816.5,208.43,2024.93,2022-03-29
+WO-00062,WA-0079,2022-02-14,Inspection,Preventive Maintenance completed for asset WA-0079,Low,Completed,PipeTech NZ,8.3,1768.69,946.13,2714.82,2022-02-24
+WO-00063,WA-0036,2026-06-07,Hydrant Testing,Pipe Replacement completed for asset WA-0036,Medium,Completed,PipeTech NZ,9.5,681.38,1087.69,1769.07,2026-06-13
+WO-00064,WA-0031,2025-10-21,Inspection,Pipe Replacement completed for asset WA-0031,,Completed,Arawa Civil,12.3,2859.35,1226.36,4085.71,2025-10-23
+WO-00065,WA-0092,2024-08-11,Emergency Repair,Emergency Repair completed for asset WA-0092,High,Completed,Arawa Civil,9.3,3149.16,835.06,3984.22,2024-08-31
+WO-00066,WA-0006,2025-09-17,Inspection,Emergency Repair completed for asset WA-0006,Medium,Completed,Council Internal Crew,11.5,2863.2,1478.47,4341.67,2025-09-24
+WO-00067,WA-0082,2022-01-16,Pipe Replacement,Hydrant Testing completed for asset WA-0082,High,Cancelled,Arawa Civil,2.0,3531.65,207.65,3739.3,2022-01-19
+WO-00068,WA-0044,2023-11-02,Pump Service,Pipe Replacement completed for asset WA-0044,High,Completed,Arawa Civil,2.7,400.16,273.86,674.02,2023-11-15
+WO-00069,WA-0025,2023-06-22,Inspection,Inspection completed for asset WA-0025,Low,Completed,Bay Utility Services,4.1,685.49,484.8,1170.29,2023-06-26
+WO-00070,WA-0051,2022-05-28,Leak Repair,Leak Repair completed for asset WA-0051,Medium,Open,Arawa Civil,8.3,72.54,966.01,1038.55,
+WO-00071,WA-0070,2023-04-11,Leak Repair,Emergency Repair completed for asset WA-0070,Urgent,Cancelled,Rotorua Water Works,15.0,884.99,1881.83,2766.82,2023-04-30
+WO-00072,WA-0007,2023-06-02,Pump Service,Emergency Repair completed for asset WA-0007,Urgent,Completed,Arawa Civil,9.7,3021.65,874.43,3896.08,2023-06-20
+WO-00073,WA-0019,2024-05-03,Leak Repair,Pump Service completed for asset WA-0019,Low,Completed,Arawa Civil,8.6,97.51,749.35,846.86,2024-05-21
+WO-00074,WA-0050,2025-01-17,Preventive Maintenance,Pipe Replacement completed for asset WA-0050,High,Completed,Bay Utility Services,12.4,2954.83,1302.88,4257.71,2025-01-25
+WO-00075,WA-0074,2025-11-10,Pump Service,Pipe Replacement completed for asset WA-0074,High,Completed,Arawa Civil,7.4,3558.78,709.51,4268.29,2025-11-15
+WO-00076,WA-0026,2022-10-21,Pipe Replacement,Pipe Replacement completed for asset WA-0026,Medium,Complete,Council Internal Crew,9.8,3592.52,1298.26,4890.78,2022-10-25
+WO-00077,WA-0098,2026-02-17,Leak Repair,Pipe Replacement completed for asset WA-0098,Medium,Cancelled,Rotorua Water Works,9.3,4097.2,820.1,4917.3,2026-02-28
+WO-00078,WA-0002,2024-06-08,Leak Repair,Emergency Repair completed for asset WA-0002,Low,In Progress,PipeTech NZ,15.1,1173.01,1393.21,2566.22,
+WO-00079,WA-0052,2022-03-27,Emergency Repair,Emergency Repair completed for asset WA-0052,Low,Completed,Council Internal Crew,5.7,4390.76,592.93,4983.69,2022-03-31
+WO-00080,WA-0027,2024-07-04,Leak Repair,Inspection completed for asset WA-0027,Low,Open,PipeTech NZ,15.5,1211.19,1608.9,2820.09,
+WO-00081,WA-0015,2025-01-12,Emergency Repair,Inspection completed for asset WA-0015,Urgent,Completed,PipeTech NZ,1.9,1059.71,194.05,1253.76,2025-01-24
+WO-00082,WA-0099,2026-09-05,Leak Repair,Pump Service completed for asset WA-0099,High,Completed,Rotorua Water Works,3.4,1624.56,400.89,2025.45,2026-09-12
+WO-00083,WA-0034,2024-11-29,Pipe Replacement,Hydrant Testing completed for asset WA-0034,Medium,Open,Rotorua Water Works,6.6,1034.73,652.1,1686.83,
+WO-00084,WA-0012,2025-10-24,Inspection,Pump Service completed for asset WA-0012,Low,Cancelled,Council Internal Crew,7.8,288.7,824.26,1112.96,2025-10-30
+WO-00085,WA-0065,2024-05-18,Emergency Repair,Hydrant Testing completed for asset WA-0065,Low,Completed,Rotorua Water Works,4.1,747.22,437.46,1184.68,2024-05-19
+WO-00086,WA-0021,2026-02-13,Leak Repair,Leak Repair completed for asset WA-0021,Low,Completed,Bay Utility Services,1.9,364.68,175.3,539.98,2026-02-25
+WO-00087,WA-0084,2024-04-13,Leak Repair,Pump Service completed for asset WA-0084,High,Completed,Rotorua Water Works,7.9,3382.31,737.4,4119.71,2024-05-01
+WO-00088,WA-0045,2023-01-21,Pump Service,Inspection completed for asset WA-0045,Medium,Completed,Rotorua Water Works,5.5,3797.73,668.91,4466.64,2023-01-30
+WO-00089,WA-0012,2024-04-14,Inspection,Leak Repair completed for asset WA-0012,Urgent,Completed,Bay Utility Services,5.3,4051.65,516.72,4568.37,2024-04-28
+WO-00090,WA-0055,2024-06-01,Inspection,Hydrant Testing completed for asset WA-0055,Medium,Completed,PipeTech NZ,two,2685.84,181.7,2867.54,2024-06-19
+WO-00091,WA-0045,2024-11-05,Hydrant Testing,Hydrant Testing completed for asset WA-0045,High,Completed,Council Internal Crew,15.4,3852.32,1811.26,5663.58,2024-11-10
+WO-00092,WA-0033,2026-02-16,Preventive Maintenance,Pump Service completed for asset WA-0033,Low,Completed,Arawa Civil,15.5,1669.11,2019.39,3688.5,2026-02-28
+WO-00093,WA-0027,2023-04-09,Preventive Maintenance,Hydrant Testing completed for asset WA-0027,Low,Completed,PipeTech NZ,13.8,477.25,1448.15,1925.4,2023-04-16
+WO-00094,WA-0075,2023-12-14,Pump Service,Pump Service completed for asset WA-0075,High,Completed,Bay Utility Services,14.9,620.89,1391.22,2012.11,2023-12-15
+WO-00095,WA-0065,2022-08-22,Emergency Repair,Inspection completed for asset WA-0065,Low,Completed,Bay Utility Services,17.2,2023.3,1762.69,3785.99,2022-08-28
+WO-00096,WA-0095,2025-03-28,Hydrant Testing,Emergency Repair completed for asset WA-0095,Low,Open,Council Internal Crew,15.9,4192.29,1618.97,5811.26,
+WO-00097,WA-0065,2025-09-22,Leak Repair,Preventive Maintenance completed for asset WA-0065,Low,Completed,Bay Utility Services,8.4,137.68,846.36,984.04,2025-09-26
+WO-00098,WA-0040,2025-05-31,Inspection,Pipe Replacement completed for asset WA-0040,Medium,In Progress,Arawa Civil,7.9,1637.42,1020.37,2657.79,
+WO-00099,WA-0076,2024-03-19,Emergency Repair,Pump Service completed for asset WA-0076,Urgent,Completed,Arawa Civil,14.4,658.4,1298.18,1956.58,2024-03-22
+WO-00100,WA-0068,2026-11-18,Emergency Repair,Leak Repair completed for asset WA-0068,Low,Completed,Arawa Civil,4.5,4398.17,501.59,4899.76,2026-11-27
+WO-00101,WA-0079,2024-07-15,Pipe Replacement,Leak Repair completed for asset WA-0079,Urgent,Open,Council Internal Crew,2.7,1735.54,336.95,2072.49,
+WO-00102,WA-0023,2025-09-10,Leak Repair,Inspection completed for asset WA-0023,Urgent,In Progress,,2.2,1938.58,199.95,2138.53,
+WO-00103,WA-0031,2023-02-07,Pump Service,Leak Repair completed for asset WA-0031,High,Completed,Council Internal Crew,5.9,2151.36,709.24,2860.6,2023-02-11
+WO-00104,WA-0055,2025-09-18,Hydrant Testing,Pump Service completed for asset WA-0055,Medium,Completed,Council Internal Crew,17.4,464.52,2310.62,2775.14,2025-10-01
+WO-00105,WA-0045,2024-11-25,Hydrant Testing,Emergency Repair completed for asset WA-0045,Medium,Completed,Council Internal Crew,17.4,2837.07,1699.7,4536.77,2024-12-03
+WO-00106,WA-0082,2022-11-05,Pipe Replacement,Inspection completed for asset WA-0082,Low,Open,Arawa Civil,15.0,2172.25,1755.07,3927.32,
+WO-00107,WA-0068,2025-10-16,Pipe Replacement,Preventive Maintenance completed for asset WA-0068,Low,Open,Council Internal Crew,16.0,2629.09,1396.68,4025.77,
+WO-00108,WA-0061,2024-06-07,Leak Repair,Hydrant Testing completed for asset WA-0061,High,Completed,Council Internal Crew,1.8,423.96,179.72,603.68,2024-06-20
+WO-00109,WA-0040,2025-04-10,Hydrant Testing,Inspection completed for asset WA-0040,Low,Open,Bay Utility Services,8.6,901.11,806.59,1707.7,
+WO-00110,WA-0075,2026-04-21,Inspection,Hydrant Testing completed for asset WA-0075,Urgent,Completed,Council Internal Crew,15.9,2223.95,1995.81,4219.76,2026-05-05
+WO-00111,WA-0072,2025-11-20,Leak Repair,Pipe Replacement completed for asset WA-0072,Medium,Completed,Rotorua Water Works,11.2,4497.21,1293.64,5790.85,2025-12-04
+WO-00112,WA-0086,2023-01-24,Leak Repair,Pump Service completed for asset WA-0086,Low,Open,Arawa Civil,5.4,2041.5,539.9,2581.4,
+WO-00113,WA-0076,2023-02-09,Pipe Replacement,Leak Repair completed for asset WA-0076,High,Completed,PipeTech NZ,6.3,2265.33,544.49,2809.82,2023-02-16
+WO-00114,WA-0031,2026-07-23,Pump Service,Hydrant Testing completed for asset WA-0031,Medium,Completed,Arawa Civil,5.8,2359.86,515.09,2874.95,2026-08-04
+WO-00115,WA-0097,2022-05-17,Hydrant Testing,Preventive Maintenance completed for asset WA-0097,Medium,Completed,Council Internal Crew,14.2,4226.08,1478.59,5704.67,2022-06-01
+WO-00116,WA-0023,2023-12-21,Preventive Maintenance,Leak Repair completed for asset WA-0023,Medium,Completed,Bay Utility Services,15.9,3434.61,1614.78,5049.39,2023-12-21
+WO-00117,WA-0046,2022-04-18,Pipe Replacement,Hydrant Testing completed for asset WA-0046,Low,In Progress,Council Internal Crew,8.2,3963.39,1016.76,99999,
+WO-00118,WA-0052,2026-04-15,Emergency Repair,Leak Repair completed for asset WA-0052,Medium,Cancelled,Council Internal Crew,9.9,64.66,956.4,1021.06,2026-04-25
+WO-00119,WA-0024,2022-09-27,Preventive Maintenance,Leak Repair completed for asset WA-0024,High,In Progress,Bay Utility Services,6.5,3850.15,672.3,4522.45,
+WO-00120,WA-0066,2026-12-19,Pipe Replacement,Leak Repair completed for asset WA-0066,Urgent,Completed,Rotorua Water Works,8.3,3995.32,949.71,4945.03,2026-12-24
+WO-00121,WA-0053,2024-02-14,Hydrant Testing,Pipe Replacement completed for asset WA-0053,Medium,Completed,Bay Utility Services,15.1,2156.03,1808.73,3964.76,2024-02-25
+WO-00122,WA-0076,2025-02-19,Leak Repair,Emergency Repair completed for asset WA-0076,Low,Completed,Bay Utility Services,8.1,1806.14,714.93,2521.07,2025-02-26
+WO-00123,WA-0075,2025-08-27,Inspection,Pipe Replacement completed for asset WA-0075,Low,Completed,PipeTech NZ,2.5,1872.0,309.76,2181.76,2025-09-06
+WO-00124,WA-0060,2022-06-27,Pipe Replacement,Pump Service completed for asset WA-0060,Medium,Completed,Rotorua Water Works,13.7,217.15,1813.78,2030.93,2022-07-06
+WO-00125,WA-0049,2022-01-17,Hydrant Testing,Emergency Repair completed for asset WA-0049,High,Cancelled,Rotorua Water Works,17.5,663.16,2092.07,2755.23,2022-01-18
+WO-00126,WA-0064,2024-11-04,Hydrant Testing,Pipe Replacement completed for asset WA-0064,Medium,Completed,Council Internal Crew,7.1,3212.86,776.07,3988.93,2024-11-19
+WO-00127,WA-0086,2022-10-07,Emergency Repair,Inspection completed for asset WA-0086,High,Open,Council Internal Crew,9.9,3035.96,1244.83,4280.79,
+WO-00128,WA-0033,2023-05-07,Pipe Replacement,Pump Service completed for asset WA-0033,Low,Cancelled,Bay Utility Services,10.3,3433.71,1083.26,4516.97,2023-05-26
+WO-00129,WA-0012,2022-11-05,Preventive Maintenance,Hydrant Testing completed for asset WA-0012,Medium,Completed,Bay Utility Services,17.1,549.18,2039.35,2588.53,2022-11-20
+WO-00130,WA-0037,2025-08-05,Hydrant Testing,Preventive Maintenance completed for asset WA-0037,Urgent,In Progress,Bay Utility Services,16.6,804.6,2030.13,2834.73,
+WO-00131,WA-0002,2022-06-30,Emergency Repair,Pipe Replacement completed for asset WA-0002,Low,Open,Council Internal Crew,9.1,4454.92,1149.17,5604.09,
+WO-00132,WA-0006,2023-11-21,Emergency Repair,Pipe Replacement completed for asset WA-0006,Medium,Completed,PipeTech NZ,3.9,4042.73,472.35,4515.08,2023-12-02
+WO-00133,WA-0099,2026-09-15,Hydrant Testing,Hydrant Testing completed for asset WA-0099,High,Completed,PipeTech NZ,17.8,3129.61,1874.39,5004.0,2026-09-26
+WO-00134,WA-0100,2022-08-23,Leak Repair,Preventive Maintenance completed for asset WA-0100,High,Completed,Rotorua Water Works,3.1,1282.02,374.54,1656.56,2022-08-29
+WO-00135,WA-0003,2025-04-23,Inspection,Hydrant Testing completed for asset WA-0003,Medium,Open,Arawa Civil,1.9,516.0,224.41,740.41,
+WO-00136,WA-0016,2023-09-04,Preventive Maintenance,Inspection completed for asset WA-0016,Medium,Completed,Council Internal Crew,17.3,874.72,1499.15,2373.87,2023-09-10
+WO-00137,WA-0060,2023-12-26,Pump Service,Inspection completed for asset WA-0060,Medium,Completed,Arawa Civil,14.9,2462.7,1790.39,4253.09,2024-01-15
+WO-00138,WA-0025,2025-11-18,Leak Repair,Leak Repair completed for asset WA-0025,Low,Completed,Council Internal Crew,5.7,169.05,531.37,700.42,2025-12-06
+WO-00139,WA-8888,2022-06-02,Pipe Replacement,Leak Repair completed for asset WA-0061,Medium,Completed,PipeTech NZ,11.8,4176.61,1493.68,5670.29,2022-06-18
+WO-00140,WA-0100,2022-08-14,Preventive Maintenance,Preventive Maintenance completed for asset WA-0100,Low,Open,Rotorua Water Works,17.1,4278.46,2231.77,6510.23,
+WO-00141,WA-0029,2022-12-16,Hydrant Testing,Hydrant Testing completed for asset WA-0029,Medium,Completed,Council Internal Crew,3.2,4212.13,362.71,4574.84,2022-12-29
+WO-00142,WA-0096,2026-04-10,Leak Repair,Inspection completed for asset WA-0096,Medium,Open,Arawa Civil,3.3,4465.43,405.88,4871.31,
+WO-00143,WA-0015,2026-08-19,Emergency Repair,Pump Service completed for asset WA-0015,Medium,Completed,Bay Utility Services,5.6,102.22,514.84,617.06,2026-09-07
+WO-00144,WA-0005,2022-05-13,Pipe Replacement,Inspection completed for asset WA-0005,High,Completed,Arawa Civil,15.9,393.84,2006.61,2400.45,2022-05-25
+WO-00145,WA-0059,2022-03-12,Pipe Replacement,Inspection completed for asset WA-0059,Medium,Completed,Rotorua Water Works,3.1,1288.09,276.01,1564.1,2022-03-29
+WO-00146,WA-0062,2022-05-21,Pipe Replacement,Pump Service completed for asset WA-0062,Low,Completed,Arawa Civil,3.6,1061.8,406.14,1467.94,2022-05-24
+WO-00147,WA-0094,2026-04-05,Emergency Repair,Pump Service completed for asset WA-0094,Low,Completed,Arawa Civil,8.8,2579.01,1081.24,3660.25,2026-04-25
+WO-00148,WA-0022,2025-02-02,Pipe Replacement,Inspection completed for asset WA-0022,Medium,In Progress,Council Internal Crew,2.5,2327.05,259.01,2586.06,
+WO-00149,WA-0017,2026-10-07,Leak Repair,Pipe Replacement completed for asset WA-0017,Low,Completed,Rotorua Water Works,14.0,2661.43,1366.95,4028.38,2026-10-25
+WO-00150,WA-0003,2024-01-22,Pump Service,Leak Repair completed for asset WA-0003,Low,Completed,Rotorua Water Works,10.5,330.76,1085.14,1415.9,2024-02-03
+WO-00151,WA-0085,2022-01-05,Emergency Repair,Preventive Maintenance completed for asset WA-0085,Low,Completed,Rotorua Water Works,6.3,4371.22,740.63,5111.85,2022-01-12
+WO-00152,WA-0097,2022-05-10,Inspection,Pipe Replacement completed for asset WA-0097,High,Open,Rotorua Water Works,7.3,2162.77,743.19,2905.96,
+WO-00153,WA-0090,2022-04-06,Emergency Repair,Preventive Maintenance completed for asset WA-0090,High,Open,Council Internal Crew,2.1,4445.62,276.67,4722.29,
+WO-00154,WA-0011,2023-12-17,Emergency Repair,Leak Repair completed for asset WA-0011,Medium,Cancelled,Council Internal Crew,10.5,3060.64,964.29,4024.93,2023-12-26
+WO-00155,WA-0042,2025-11-18,Hydrant Testing,Emergency Repair completed for asset WA-0042,Urgent,Cancelled,Rotorua Water Works,16.0,1641.9,1971.73,3613.63,2025-11-26
+WO-00156,WA-0027,2022-06-21,Hydrant Testing,Emergency Repair completed for asset WA-0027,Low,Completed,Bay Utility Services,4.5,280.05,557.96,838.01,2022-07-06
+WO-00157,WA-0097,2023-10-22,Preventive Maintenance,Preventive Maintenance completed for asset WA-0097,Medium,Completed,PipeTech NZ,16.8,420.98,2005.81,2426.79,2023-10-30
+WO-00158,WA-0092,2025-08-04,Pipe Replacement,Pump Service completed for asset WA-0092,Low,Completed,Council Internal Crew,11.3,1854.9,1086.35,2941.25,2025-08-18
+WO-00159,WA-0086,2023-04-08,Emergency Repair,Inspection completed for asset WA-0086,High,Completed,PipeTech NZ,15.9,4105.96,1646.56,5752.52,2023-04-09
+WO-00160,WA-0060,2022-12-09,Emergency Repair,Leak Repair completed for asset WA-0060,High,In Progress,Council Internal Crew,8.0,1080.57,815.41,1895.98,
+WO-00161,WA-0065,2025-02-25,Pump Service,Pipe Replacement completed for asset WA-0065,High,Completed,Council Internal Crew,10.4,880.33,1308.02,2188.35,2025-03-16
+WO-00162,WA-0039,2026-09-11,Emergency Repair,Pump Service completed for asset WA-0039,Low,Completed,Bay Utility Services,12.7,3027.43,1463.55,4490.98,2026-09-25
+WO-00163,WA-0045,2026-05-10,Hydrant Testing,Pipe Replacement completed for asset WA-0045,High,Completed,Rotorua Water Works,5.2,3360.86,683.5,4044.36,2026-05-22
+WO-00164,WA-0072,2025-05-18,Pump Service,Inspection completed for asset WA-0072,Medium,In Progress,PipeTech NZ,10.9,1337.13,961.12,2298.25,
+WO-00165,WA-0043,2026-09-27,Emergency Repair,Emergency Repair completed for asset WA-0043,Medium,Open,PipeTech NZ,5.3,1415.2,694.78,2109.98,
+WO-00166,WA-0022,2025-06-04,Emergency Repair,Hydrant Testing completed for asset WA-0022,Medium,In Progress,Arawa Civil,5.9,579.85,523.61,1103.46,
+WO-00167,WA-0018,2026-07-13,Emergency Repair,Pipe Replacement completed for asset WA-0018,Low,In Progress,PipeTech NZ,11.3,1847.14,1137.56,2984.7,
+WO-00168,WA-0048,2022-12-30,Leak Repair,Pump Service completed for asset WA-0048,Low,In Progress,Rotorua Water Works,15.4,675.16,1730.47,2405.63,
+WO-00169,WA-0075,2024-09-04,Inspection,Hydrant Testing completed for asset WA-0075,High,Cancelled,Council Internal Crew,13.6,2374.42,1190.39,3564.81,2024-09-18
+WO-00170,WA-0050,2023-04-08,Pipe Replacement,Leak Repair completed for asset WA-0050,Low,Completed,Council Internal Crew,11.0,1788.92,1122.82,2911.74,2023-04-08
+WO-00171,WA-0070,2024-12-20,Pipe Replacement,Pump Service completed for asset WA-0070,Medium,Completed,Arawa Civil,4.0,403.74,346.98,750.72,2025-01-06
+WO-00172,WA-0092,2022-12-17,Hydrant Testing,Hydrant Testing completed for asset WA-0092,Low,Cancelled,Arawa Civil,10.7,2684.8,1244.98,3929.78,2023-01-01
+WO-00173,WA-0035,2025-11-06,Leak Repair,Leak Repair completed for asset WA-0035,Medium,Open,Bay Utility Services,6.8,2137.49,912.65,3050.14,
+WO-00174,WA-0031,2025-08-04,Hydrant Testing,Preventive Maintenance completed for asset WA-0031,Medium,Cancelled,Arawa Civil,11.6,773.05,1450.46,2223.51,2025-08-07
+WO-00175,WA-0072,2022-09-29,Leak Repair,Pipe Replacement completed for asset WA-0072,High,Completed,Bay Utility Services,5.8,308.32,706.92,1015.24,2022-10-11
+WO-00176,WA-0077,2024-04-19,Emergency Repair,Pump Service completed for asset WA-0077,High,Completed,Arawa Civil,5.6,3877.23,558.84,4436.07,2024-05-02
+WO-00177,WA-0047,2023-10-15,Preventive Maintenance,Pipe Replacement completed for asset WA-0047,Medium,Completed,Council Internal Crew,11.7,1101.47,1166.19,2267.66,2023-10-29
+WO-00178,WA-0090,2022-12-01,Preventive Maintenance,Pipe Replacement completed for asset WA-0090,High,Completed,PipeTech NZ,4.8,747.22,473.0,1220.22,2022-12-08
+WO-00179,WA-0065,2022-09-15,Inspection,Emergency Repair completed for asset WA-0065,Medium,Completed,Rotorua Water Works,10.3,1894.56,1274.64,3169.2,2022-10-05
+WO-00180,WA-0086,2023-02-05,Emergency Repair,Preventive Maintenance completed for asset WA-0086,Medium,Completed,Rotorua Water Works,9.5,4421.06,853.09,5274.15,2023-02-09
+WO-00181,WA-0074,2022-09-07,Preventive Maintenance,Pipe Replacement completed for asset WA-0074,Low,Completed,Council Internal Crew,17.3,4122.17,2165.7,6287.87,2022-09-25
+WO-00182,WA-0087,2024-05-01,Pump Service,Preventive Maintenance completed for asset WA-0087,High,Open,Bay Utility Services,9.8,3327.32,893.38,4220.7,
+WO-00183,WA-0068,2023-05-03,Leak Repair,Preventive Maintenance completed for asset WA-0068,Low,Completed,Council Internal Crew,11.2,2527.29,985.17,3512.46,2023-05-06
+WO-00184,WA-0058,2022-02-03,Pipe Replacement,Emergency Repair completed for asset WA-0058,Medium,Completed,Arawa Civil,5.5,1678.43,697.22,2375.65,2022-02-16
+WO-00185,WA-0085,2024-03-02,Emergency Repair,Inspection completed for asset WA-0085,Medium,Cancelled,Council Internal Crew,15.3,644.47,1752.4,2396.87,2024-03-06
+WO-00186,WA-0027,2025-11-18,Leak Repair,Emergency Repair completed for asset WA-0027,Low,Completed,Arawa Civil,10.3,4035.85,1098.16,5134.01,2025-11-24
+WO-00187,WA-0076,2022-12-30,Hydrant Testing,Emergency Repair completed for asset WA-0076,High,Completed,PipeTech NZ,15.1,1615.55,1973.35,3588.9,2023-01-10
+WO-00188,WA-0059,2024-11-15,Hydrant Testing,Leak Repair completed for asset WA-0059,Low,Completed,PipeTech NZ,9.8,854.87,987.31,1842.18,2024-11-26
+WO-00189,WA-0088,2024-12-30,Hydrant Testing,Inspection completed for asset WA-0088,Medium,Cancelled,Arawa Civil,7.2,2748.7,748.08,3496.78,2025-01-17
+WO-00190,WA-0050,2025-12-22,Pump Service,Inspection completed for asset WA-0050,Medium,Completed,Arawa Civil,15.8,3848.21,1993.39,5841.6,2026-01-06
+WO-00191,WA-0089,2024-03-18,Pump Service,Pipe Replacement completed for asset WA-0089,Urgent,Completed,Bay Utility Services,14.7,1323.82,1980.89,3304.71,2024-04-01
+WO-00192,WA-0072,2022-08-16,Inspection,Pipe Replacement completed for asset WA-0072,Medium,Cancelled,Bay Utility Services,16.1,2182.23,2112.7,4294.93,2022-08-16
+WO-00193,WA-0019,2026-07-04,Emergency Repair,Pump Service completed for asset WA-0019,Low,Completed,Council Internal Crew,5.5,852.63,661.75,1514.38,2026-07-22
+WO-00194,WA-0064,2023-01-08,Inspection,Emergency Repair completed for asset WA-0064,Urgent,Completed,PipeTech NZ,1.6,1304.17,208.24,1512.41,2023-01-26
+WO-00195,WA-0024,2022-11-19,Emergency Repair,Emergency Repair completed for asset WA-0024,Medium,Completed,PipeTech NZ,15.6,2342.74,1925.34,4268.08,2022-12-04
+WO-00196,WA-0079,2025-11-21,Hydrant Testing,Pipe Replacement completed for asset WA-0079,High,Completed,Bay Utility Services,9.3,1903.53,834.88,2738.41,2025-12-01
+WO-00197,WA-0021,2023-05-11,Inspection,Pump Service completed for asset WA-0021,Medium,Open,Bay Utility Services,2.9,116.03,372.59,488.62,
+WO-00198,WA-0023,2022-12-25,Preventive Maintenance,Hydrant Testing completed for asset WA-0023,Low,In Progress,Bay Utility Services,14.0,620.36,1660.07,2280.43,
+WO-00199,WA-0080,2023-09-11,Emergency Repair,Preventive Maintenance completed for asset WA-0080,Medium,Completed,Rotorua Water Works,5.9,3202.97,731.27,3934.24,2023-09-27
+WO-00200,WA-0044,2022-05-31,Leak Repair,Inspection completed for asset WA-0044,Medium,Completed,Arawa Civil,7.0,360.88,629.51,990.39,2022-06-15

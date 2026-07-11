@@ -1,0 +1,185 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "service_area_id": "SA01",
+        "service_area_name": "Western",
+        "area_manager": "Mereana Kingi",
+        "maintenance_target_days": 12
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              176.19,
+              -38.19
+            ],
+            [
+              176.235,
+              -38.19
+            ],
+            [
+              176.235,
+              -38.09
+            ],
+            [
+              176.19,
+              -38.09
+            ],
+            [
+              176.19,
+              -38.19
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "service_area_id": "SA02",
+        "service_area_name": "Central",
+        "area_manager": "James Patel",
+        "maintenance_target_days": 10
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              176.235,
+              -38.175
+            ],
+            [
+              176.27,
+              -38.175
+            ],
+            [
+              176.27,
+              -38.105
+            ],
+            [
+              176.235,
+              -38.105
+            ],
+            [
+              176.235,
+              -38.175
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "service_area_id": "SA03",
+        "service_area_name": "Eastern",
+        "area_manager": "Anika Roberts",
+        "maintenance_target_days": 14
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              176.27,
+              -38.185
+            ],
+            [
+              176.32,
+              -38.185
+            ],
+            [
+              176.32,
+              -38.095
+            ],
+            [
+              176.27,
+              -38.095
+            ],
+            [
+              176.27,
+              -38.185
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "service_area_id": "SA04",
+        "service_area_name": "Northern",
+        "area_manager": "Hemi Wilson",
+        "maintenance_target_days": 16
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              176.225,
+              -38.105
+            ],
+            [
+              176.31,
+              -38.105
+            ],
+            [
+              176.31,
+              -38.055
+            ],
+            [
+              176.225,
+              -38.055
+            ],
+            [
+              176.225,
+              -38.105
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "service_area_id": "SA05",
+        "service_area_name": "Southern",
+        "area_manager": "Sarah Thompson",
+        "maintenance_target_days": 18
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              176.215,
+              -38.225
+            ],
+            [
+              176.3,
+              -38.225
+            ],
+            [
+              176.3,
+              -38.175
+            ],
+            [
+              176.215,
+              -38.175
+            ],
+            [
+              176.215,
+              -38.225
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}
