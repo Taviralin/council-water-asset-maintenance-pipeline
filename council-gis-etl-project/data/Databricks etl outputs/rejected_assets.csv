@@ -1,0 +1,15 @@
+source_record_identifier,rejection_reason,source_file,rejected_timestamp
+WA-0002,Duplicate asset_id,water_assets.geojson,2026-07-11 05:17:59.996259
+WA-0002,Duplicate asset_id,water_assets.geojson,2026-07-11 05:17:59.996259
+,Missing asset_id,water_assets.geojson,2026-07-11 05:17:59.996259
+WA-0013,Missing install_date,water_assets.geojson,2026-07-11 05:17:59.996259
+WA-0019,Invalid install_date,water_assets.geojson,2026-07-11 05:17:59.996259
+WA-0024,Future install_date,water_assets.geojson,2026-07-11 05:17:59.996259
+WA-0030,Invalid condition,water_assets.geojson,2026-07-11 05:17:59.996259
+WA-0035,Invalid condition,water_assets.geojson,2026-07-11 05:17:59.996259
+WA-0041,Non-positive diameter_mm,water_assets.geojson,2026-07-11 05:17:59.996259
+WA-0046,Invalid diameter_mm,water_assets.geojson,2026-07-11 05:17:59.996259
+WA-0057,Unmapped asset_type,water_assets.geojson,2026-07-11 05:17:59.996259
+WA-0063,Missing or invalid geometry,water_assets.geojson,2026-07-11 05:17:59.996259
+WA-0071,Missing or invalid geometry,water_assets.geojson,2026-07-11 05:17:59.996259
+WA-0085,Invalid operational_status,water_assets.geojson,2026-07-11 05:17:59.996259

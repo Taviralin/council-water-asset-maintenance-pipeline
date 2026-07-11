@@ -1,0 +1,86 @@
+asset_id,standard_asset_type,asset_subtype,service_area,install_date,install_year,asset_age_years,material,diameter_mm,condition,operational_status,last_inspection_date,latest_maintenance_date,latest_maintenance_type,maintenance_count,total_maintenance_cost,average_maintenance_cost,open_work_order_count,urgent_work_order_count,days_since_last_maintenance,data_quality_flag,latitude,longitude,geometry_type,etl_processed_timestamp
+WA-0001,Valve,Isolation Valve,Eastern,1982-08-04,1982,44,PVC,200,Critical,Active,2026-09-16,,,0,0,0,0,0,,OK,-38.171388,176.272689,Point,2026-07-10T00:02:12+00:00
+WA-0003,Hydrant,Fire Hydrant,Eastern,1988-11-14,1988,38,PVC,80,Good,Under Repair,2023-12-02,2025-04-23,Inspection,2,2156.31,1078.15,1,0,443,OK,-38.142229,176.291478,Point,2026-07-10T00:02:12+00:00
+WA-0005,Valve,Scour Valve,Western,1995-05-20,1995,31,concrete,50,Fair,Active,2025-01-06,2022-05-13,Pipe Replacement,1,2400.45,2400.45,0,0,1519,OK,-38.169568,176.228823,Point,2026-07-10T00:02:12+00:00
+WA-0006,Water Pipe,Rider Main,Eastern,2019-04-16,2019,7,concrete,100,Fair,Active,2022-09-15,2025-09-17,Inspection,2,8856.75,4428.38,0,0,296,OK,-38.183657,176.30294,LineString,2026-07-10T00:02:12+00:00
+WA-0007,Valve,Isolation Valve,Northern,1975-10-03,1975,51,steel,150,Poor,Active,2021-09-08,2023-06-02,Pump Service,1,3896.08,3896.08,0,1,1134,OK,-38.099265,176.251361,Point,2026-07-10T00:02:12+00:00
+WA-0009,Water Pipe,Distribution Main,Eastern,2014-03-24,2014,12,concrete,300,Poor,Active,2022-04-21,,,0,0,0,0,0,,OK,-38.126969,176.296996,LineString,2026-07-10T00:02:12+00:00
+WA-0010,Pump,Transfer Pump,Central,1992-07-05,1992,34,cast iron,300,Fair,Inactive,2025-03-26,,,0,0,0,0,0,,OK,-38.16138,176.249881,Point,2026-07-10T00:02:12+00:00
+WA-0011,Hydrant,Marker Hydrant,Central,1995-04-16,1995,31,concrete,150,Good,Active,2024-03-28,2024-12-02,Leak Repair,2,7191.32,3595.66,0,0,585,OK,-38.113036,176.251807,Point,2026-07-10T00:02:12+00:00
+WA-0012,Manhole,Inspection Chamber,Central,2007-07-12,2007,19,polyethylene,300,Poor,Under Repair,2025-07-12,2025-10-24,Inspection,4,12514.45,3128.61,0,1,259,OK,-38.157611,176.249312,Point,2026-07-10T00:02:12+00:00
+WA-0014,Water Pipe,Distribution Main,Northern,2016-05-28,2016,10,PVC,300,Good,Under Repair,2026-01-20,,,0,0,0,0,0,,OK,-38.096811,176.265035,LineString,2026-07-10T00:02:12+00:00
+WA-0015,Pump,Booster Pump,Western,2016-05-16,2016,10,concrete,50,Good,Active,2021-09-14,2026-08-19,Emergency Repair,2,1870.82,935.41,0,1,-40,OK,-38.09952,176.214103,Point,2026-07-10T00:02:12+00:00
+WA-0016,Water Pipe,Rider Main,Eastern,2006-12-19,2006,20,polyethylene,450,Good,Under Repair,2024-01-30,2023-09-04,Preventive Maintenance,1,2373.87,2373.87,0,0,1040,OK,-38.153135,176.287256,LineString,2026-07-10T00:02:12+00:00
+WA-0017,Hydrant,Marker Hydrant,Central,2005-05-07,2005,21,cast iron,50,Poor,Active,2021-09-26,2026-10-07,Leak Repair,3,9289.1,3096.37,0,0,-89,OK,-38.135624,176.236443,Point,2026-07-10T00:02:12+00:00
+WA-0018,Valve,Scour Valve,Western,2017-03-06,2017,9,steel,80,Poor,Under Repair,2024-01-26,2026-07-13,Emergency Repair,1,2984.7,2984.7,1,0,-3,OK,-38.174291,176.220016,Point,2026-07-10T00:02:12+00:00
+WA-0020,Valve,Scour Valve,Eastern,2013-01-18,2013,13,concrete,300,Fair,Active,2023-09-09,2026-02-14,Pipe Replacement,1,4048.38,4048.38,1,0,146,OK,-38.115332,176.273419,Point,2026-07-10T00:02:12+00:00
+WA-0021,Hydrant,Fire Hydrant,Eastern,2004-09-30,2004,22,polyethylene,50,Good,Active,2025-07-31,2026-02-13,Leak Repair,3,6694.99,2231.66,2,1,147,OK,-38.130108,176.271731,Point,2026-07-10T00:02:12+00:00
+WA-0022,Valve,Air Valve,Western,1991-04-22,1991,35,cast iron,80,Good,Active,2025-08-13,2025-06-04,Emergency Repair,3,9458.06,3152.69,3,0,401,OK,-38.100572,176.22962,Point,2026-07-10T00:02:12+00:00
+WA-0023,Hydrant,Marker Hydrant,Central,1992-09-22,1992,34,concrete,450,Good,Active,2021-08-30,2026-11-25,Leak Repair,4,13926.13,3481.53,2,1,-138,OK,-38.14139,176.260717,Point,2026-07-10T00:02:12+00:00
+WA-0025,Valve,Isolation Valve,Western,2016-10-17,2016,10,PVC,100,Fair,Active,2025-11-08,2025-11-18,Leak Repair,2,1870.71,935.36,0,0,234,OK,-38.124145,176.214561,Point,2026-07-10T00:02:12+00:00
+WA-0026,Hydrant,Marker Hydrant,Eastern,1975-02-04,1975,51,PVC,100,Good,Under Repair,2022-05-21,2025-03-30,Emergency Repair,3,14923.24,4974.41,0,0,467,OK,-38.095275,176.280834,Point,2026-07-10T00:02:12+00:00
+WA-0027,Manhole,Access Manhole,Eastern,1995-11-06,1995,31,steel,300,Good,Active,2025-05-19,2025-11-18,Leak Repair,4,10717.51,2679.38,1,0,234,OK,-38.18129,176.290335,Point,2026-07-10T00:02:12+00:00
+WA-0028,Valve,Air Valve,Eastern,2004-07-24,2004,22,concrete,50,Fair,Active,2026-10-19,2024-11-10,Emergency Repair,1,1537.0,1537.0,0,0,607,OK,-38.157651,176.280128,Point,2026-07-10T00:02:12+00:00
+WA-0029,Hydrant,Marker Hydrant,Central,1974-03-07,1974,52,PVC,80,Good,Active,2023-05-20,2022-12-16,Hydrant Testing,1,4574.84,4574.84,0,0,1302,OK,-38.17103,176.260638,Point,2026-07-10T00:02:12+00:00
+WA-0031,Hydrant,Fire Hydrant,Eastern,1992-03-10,1992,34,cast iron,200,Fair,Active,2023-06-13,2026-07-23,Pump Service,4,12044.77,3011.19,0,0,-13,OK,-38.105116,176.301052,Point,2026-07-10T00:02:12+00:00
+WA-0032,Valve,Scour Valve,Central,1971-05-24,1971,55,steel,150,Good,Active,2025-06-07,,,0,0,0,0,0,,OK,-38.137919,176.258026,Point,2026-07-10T00:02:12+00:00
+WA-0033,Water Pipe,Rider Main,Central,1982-10-22,1982,44,cast iron,450,Fair,Active,2023-10-08,2026-06-07,leak repair,4,11996.84,2999.21,1,0,33,OK,-38.152821,176.260762,LineString,2026-07-10T00:02:12+00:00
+WA-0034,Valve,Scour Valve,Eastern,1998-06-03,1998,28,polyethylene,200,Good,Active,2021-01-19,2024-11-29,Pipe Replacement,1,1686.83,1686.83,1,0,588,OK,-38.109806,176.289453,Point,2026-07-10T00:02:12+00:00
+WA-0036,Water Pipe,Distribution Main,Southern,2002-12-13,2002,24,polyethylene,300,Good,Inactive,2025-02-07,2026-06-07,Hydrant Testing,1,1769.07,1769.07,0,0,33,OK,-38.183852,176.254401,LineString,2026-07-10T00:02:12+00:00
+WA-0037,Valve,Air Valve,Eastern,2018-09-03,2018,8,polyethylene,80,Fair,Active,2021-07-13,2025-08-05,Hydrant Testing,2,5020.15,2510.07,1,1,339,OK,-38.16176,176.275323,Point,2026-07-10T00:02:12+00:00
+WA-0038,Hydrant,Fire Hydrant,Western,1983-08-07,1983,43,PVC,450,Poor,Active,2021-09-09,,,0,0,0,0,0,,OK,-38.174312,176.232845,Point,2026-07-10T00:02:12+00:00
+WA-0039,Hydrant,Fire Hydrant,Central,2009-10-30,2009,17,cast iron,50,Fair,Active,2021-12-03,2026-09-11,Emergency Repair,2,5611.47,2805.74,0,0,-63,OK,-38.161668,176.268402,Point,2026-07-10T00:02:12+00:00
+WA-0040,Hydrant,Marker Hydrant,Eastern,2011-02-09,2011,15,cast iron,200,Fair,Active,2025-09-20,2025-05-31,Inspection,4,11820.01,2955.0,2,0,405,OK,-38.135213,176.27323,Point,2026-07-10T00:02:12+00:00
+WA-0042,Hydrant,Fire Hydrant,Western,2002-02-04,2002,24,steel,250,Poor,Active,2022-12-11,2025-11-18,Hydrant Testing,1,3613.63,3613.63,0,1,234,OK,-38.109971,176.232775,Point,2026-07-10T00:02:12+00:00
+WA-0043,Water Pipe,Distribution Main,Central,2009-12-22,2009,17,PVC,80,Poor,Active,2024-07-29,2026-09-27,Emergency Repair,1,2109.98,2109.98,1,0,-79,OK,-38.126751,176.24324,LineString,2026-07-10T00:02:12+00:00
+WA-0044,Pump,Booster Pump,Central,2001-02-17,2001,25,cast iron,100,Fair,Active,2021-01-04,2023-11-02,Pump Service,3,5833.93,1944.64,0,0,981,OK,-38.120574,176.237795,Point,2026-07-10T00:02:12+00:00
+WA-0045,Water Pipe,Rider Main,Central,2019-05-20,2019,7,polyethylene,450,Poor,Active,2023-10-08,2026-05-10,Hydrant Testing,5,23396.55,4679.31,0,0,61,OK,-38.165138,176.269632,LineString,2026-07-10T00:02:12+00:00
+WA-0047,Water Pipe,Rider Main,Eastern,1998-11-25,1998,28,steel,50,Poor,Active,2021-12-17,2023-10-15,Preventive Maintenance,1,2267.66,2267.66,0,0,999,OK,-38.182752,176.292532,LineString,2026-07-10T00:02:12+00:00
+WA-0048,Water Pipe,Service Line,Western,2001-10-30,2001,25,cast iron,250,Fair,Active,2025-10-16,2024-01-27,Inspection,2,8124.6,4062.3,1,0,895,OK,-38.138658,176.219482,LineString,2026-07-10T00:02:12+00:00
+WA-0049,Manhole,Inspection Chamber,Eastern,2003-04-11,2003,23,concrete,200,Good,Active,2025-07-30,2024-12-22,Inspection,2,7090.59,3545.3,1,0,565,OK,-38.119133,176.281305,Point,2026-07-10T00:02:12+00:00
+WA-0050,Water Pipe,Rider Main,Eastern,1976-09-07,1976,50,PVC,200,Fair,Active,2026-01-30,2025-12-22,Pump Service,3,13011.05,4337.02,0,0,200,OK,-38.102975,176.274197,LineString,2026-07-10T00:02:12+00:00
+WA-0051,Water Pipe,Rider Main,Central,2018-07-01,2018,8,polyethylene,450,Good,Active,2025-12-15,2022-05-28,Leak Repair,1,1038.55,1038.55,1,0,1504,OK,-38.16198,176.257504,LineString,2026-07-10T00:02:12+00:00
+WA-0052,Water Pipe,Marker Hydrant,Southern,1977-10-21,1977,49,concrete,300,Fair,Active,2024-01-07,2026-04-15,Emergency Repair,2,6004.75,3002.38,0,0,86,OK,-38.176447,176.260267,Point,2026-07-10T00:02:12+00:00
+WA-0053,Manhole,Inspection Chamber,Central,2011-10-22,2011,15,PVC,50,Poor,Active,2021-01-01,2024-02-14,Hydrant Testing,3,11324.9,3774.97,0,0,877,OK,-38.114301,176.23888,Point,2026-07-10T00:02:12+00:00
+WA-0054,Pump,Booster Pump,Western,1982-07-16,1982,44,PVC,450,Good,Active,2022-09-22,,,0,0,0,0,0,,OK,-38.137729,176.206254,Point,2026-07-10T00:02:12+00:00
+WA-0055,Water Pipe,Distribution Main,Central,2008-01-02,2008,18,concrete,100,Good,Active,2021-08-06,2025-09-18,Hydrant Testing,2,5642.68,2821.34,0,0,295,OK,-38.121758,176.256956,LineString,2026-07-10T00:02:12+00:00
+WA-0056,Water Pipe,Distribution Main,Central,2016-11-01,2016,10,concrete,250,Poor,Active,2025-04-09,2023-05-08,Hydrant Testing,1,5607.45,5607.45,0,0,1159,OK,-38.126044,176.265372,LineString,2026-07-10T00:02:12+00:00
+WA-0058,Valve,Scour Valve,Eastern,2007-04-21,2007,19,concrete,250,Good,Inactive,2022-07-16,2022-02-03,Pipe Replacement,1,2375.65,2375.65,0,0,1618,OK,-38.145402,176.285789,Point,2026-07-10T00:02:12+00:00
+WA-0059,Water Pipe,Rider Main,Western,2020-11-20,2020,6,steel,450,Poor,Active,2021-04-21,2024-11-15,Hydrant Testing,2,3406.28,1703.14,0,0,602,OK,-38.173032,176.231542,LineString,2026-07-10T00:02:12+00:00
+WA-0060,Hydrant,Fire Hydrant,Eastern,2022-05-09,2022,4,polyethylene,450,Good,Active,2024-07-26,2023-12-26,Pump Service,3,8180.0,2726.67,1,0,927,OK,-38.126005,176.298862,Point,2026-07-10T00:02:12+00:00
+WA-0061,Water Pipe,Rider Main,Western,1985-07-08,1985,41,concrete,200,Fair,Active,2021-06-26,2024-06-07,Leak Repair,1,603.68,603.68,0,0,763,OK,-38.163371,176.211013,LineString,2026-07-10T00:02:12+00:00
+WA-0062,Hydrant,Marker Hydrant,Eastern,1981-04-04,1981,45,PVC,100,Fair,Inactive,2023-08-26,2022-05-21,Pipe Replacement,1,1467.94,1467.94,0,0,1511,OK,-38.159666,176.297605,Point,2026-07-10T00:02:12+00:00
+WA-0064,Water Pipe,Distribution Main,Eastern,1981-10-22,1981,45,steel,50,Good,Active,2026-05-12,2024-11-04,Hydrant Testing,2,5501.34,2750.67,0,1,613,OK,-38.104912,176.297593,LineString,2026-07-10T00:02:12+00:00
+WA-0065,Manhole,Access Manhole,Western,2021-03-29,2021,5,steel,150,Good,Active,2026-10-21,2025-09-22,Leak Repair,5,11312.26,2262.45,0,0,291,OK,-38.153539,176.234063,Point,2026-07-10T00:02:12+00:00
+WA-0066,Water Pipe,Rider Main,Central,1986-04-04,1986,40,cast iron,150,Good,Active,2025-09-30,2026-12-19,Pipe Replacement,3,9571.31,3190.44,0,1,-162,OK,-38.147587,176.263241,LineString,2026-07-10T00:02:12+00:00
+WA-0067,Water Pipe,Rider Main,Central,1976-05-12,1976,50,cast iron,450,Good,Active,2024-03-07,,,0,0,0,0,0,,OK,-38.117148,176.243959,LineString,2026-07-10T00:02:12+00:00
+WA-0068,Hydrant,Fire Hydrant,Eastern,2010-01-23,2010,16,steel,50,Fair,Active,2025-03-07,2026-11-18,Emergency Repair,4,13378.13,3344.53,1,0,-131,OK,-38.131083,176.282088,Point,2026-07-10T00:02:12+00:00
+WA-0069,Valve,Scour Valve,Western,1973-06-06,1973,53,PVC,200,Poor,Under Repair,2025-04-24,,,0,0,0,0,0,,OK,-38.151925,176.23065,Point,2026-07-10T00:02:12+00:00
+WA-0070,Valve,Isolation Valve,Northern,1987-09-12,1987,39,PVC,200,Good,Active,2023-05-08,2024-12-20,Pipe Replacement,3,9034.78,3011.59,0,1,567,OK,-38.09753,176.257087,Point,2026-07-10T00:02:12+00:00
+WA-0072,Valve,Isolation Valve,Central,1989-04-26,1989,37,polyethylene,50,Good,Active,2022-04-20,2025-11-20,Leak Repair,4,13399.27,3349.82,1,0,232,OK,-38.128865,176.244974,Point,2026-07-10T00:02:12+00:00
+WA-0073,Water Pipe,Distribution Main,Central,1979-04-06,1979,47,steel,200,Poor,Planned,2022-08-04,,,0,0,0,0,0,,OK,-38.131815,176.26169,LineString,2026-07-10T00:02:12+00:00
+WA-0074,Valve,Scour Valve,Western,1985-06-01,1985,41,PVC,150,Poor,Active,2026-10-03,2025-11-10,Pump Service,2,10556.16,5278.08,0,0,242,OK,-38.165826,176.226373,Point,2026-07-10T00:02:12+00:00
+WA-0075,Hydrant,Marker Hydrant,Western,1976-09-28,1976,50,steel,80,Good,Active,2025-01-27,2026-04-21,Inspection,4,11978.44,2994.61,0,1,80,OK,-38.143522,176.211931,Point,2026-07-10T00:02:12+00:00
+WA-0076,Valve,Scour Valve,Western,2012-06-12,2012,14,concrete,450,Good,Active,2023-06-22,2025-02-19,Leak Repair,4,10876.37,2719.09,0,1,506,OK,-38.162173,176.231394,Point,2026-07-10T00:02:12+00:00
+WA-0077,Valve,Isolation Valve,Central,2019-12-25,2019,7,concrete,80,Fair,Inactive,2026-11-04,2024-04-19,Emergency Repair,1,4436.07,4436.07,0,0,812,OK,-38.173456,176.2653,Point,2026-07-10T00:02:12+00:00
+WA-0078,Hydrant,Marker Hydrant,Southern,1995-05-21,1995,31,cast iron,80,Good,Active,2024-06-16,2024-10-22,Leak Repair,2,4088.07,2044.04,2,0,626,OK,-38.178785,176.256095,Point,2026-07-10T00:02:12+00:00
+WA-0080,Manhole,Inspection Chamber,Western,1998-09-13,1998,28,polyethylene,150,Fair,Active,2026-12-07,2023-09-11,Emergency Repair,1,3934.24,3934.24,0,0,1033,OK,-38.180727,176.208948,Point,2026-07-10T00:02:12+00:00
+WA-0081,Water Pipe,Rider Main,Eastern,2020-08-23,2020,6,concrete,150,Poor,Active,2026-01-12,,,0,0,0,0,0,,OK,-38.119243,176.282978,LineString,2026-07-10T00:02:12+00:00
+WA-0082,Water Pipe,Service Line,Northern,1991-01-15,1991,35,PVC,80,Poor,Under Repair,2024-12-28,2022-11-22,Leak Repair,3,11430.8,3810.27,1,1,1326,OK,-38.104284,176.258801,LineString,2026-07-10T00:02:12+00:00
+WA-0083,Hydrant,Marker Hydrant,Eastern,2005-04-08,2005,21,PVC,50,Fair,Active,2025-08-16,,,0,0,0,0,0,,OK,-38.137372,176.303075,Point,2026-07-10T00:02:12+00:00
+WA-0084,Water Pipe,Service Line,Central,1972-05-30,1972,54,PVC,100,Fair,Active,2021-12-09,2024-04-13,Leak Repair,1,4119.71,4119.71,0,0,818,OK,-38.110912,176.246802,LineString,2026-07-10T00:02:12+00:00
+WA-0086,Manhole,Inspection Chamber,Central,1980-03-12,1980,46,steel,300,Good,Inactive,2026-11-15,2026-08-02,Emergency Repair,5,22135.55,4427.11,3,0,-23,OK,-38.147993,176.242152,Point,2026-07-10T00:02:12+00:00
+WA-0087,Water Pipe,Rider Main,Eastern,1983-06-02,1983,43,polyethylene,250,Good,Active,2023-06-11,2024-05-01,Pump Service,1,4220.7,4220.7,1,0,800,OK,-38.105742,176.27672,LineString,2026-07-10T00:02:12+00:00
+WA-0088,Water Pipe,Service Line,Eastern,1997-06-30,1997,29,steel,250,Poor,Active,2023-03-09,2024-12-30,Hydrant Testing,3,10081.02,3360.34,0,0,557,OK,-38.142146,176.273569,LineString,2026-07-10T00:02:12+00:00
+WA-0089,Valve,Isolation Valve,Eastern,2005-12-23,2005,21,steel,250,Good,Active,2022-09-09,2024-03-18,Pump Service,2,7021.96,3510.98,0,1,844,OK,-38.151708,176.284978,Point,2026-07-10T00:02:12+00:00
+WA-0090,Water Pipe,Service Line,Central,1996-11-28,1996,30,concrete,450,Fair,Active,2025-11-30,2022-12-12,Emergency Repair,3,9486.84,3162.28,1,0,1306,OK,-38.128444,176.26333,LineString,2026-07-10T00:02:12+00:00
+WA-0091,Hydrant,Marker Hydrant,Western,2019-05-24,2019,7,steel,80,Fair,Active,2022-03-31,2022-08-12,Inspection,1,4510.28,4510.28,0,0,1428,OK,-38.161076,176.225134,Point,2026-07-10T00:02:12+00:00
+WA-0092,Valve,Air Valve,Western,1999-01-04,1999,27,cast iron,80,Good,Active,2026-07-18,2025-08-04,Pipe Replacement,3,10855.25,3618.42,0,0,340,OK,-38.161047,176.216951,Point,2026-07-10T00:02:12+00:00
+WA-0093,Hydrant,Marker Hydrant,Eastern,1972-01-05,1972,54,cast iron,250,Good,Active,2024-02-11,,,0,0,0,0,0,,OK,-38.140276,176.284804,Point,2026-07-10T00:02:12+00:00
+WA-0094,Water Pipe,Distribution Main,Southern,1999-06-11,1999,27,concrete,100,Fair,Active,2021-08-03,2026-04-05,Emergency Repair,2,6930.34,3465.17,0,1,96,OK,-38.17554,176.268287,LineString,2026-07-10T00:02:12+00:00
+WA-0095,Water Pipe,Service Line,Eastern,1974-12-12,1974,52,steel,200,Good,Active,2026-04-16,2025-03-28,Hydrant Testing,2,9285.9,4642.95,1,0,469,OK,-38.110033,176.271801,LineString,2026-07-10T00:02:12+00:00
+WA-0096,Hydrant,Fire Hydrant,Western,1982-12-04,1982,44,PVC,300,Good,Active,2026-01-21,2026-04-10,Leak Repair,2,7304.56,3652.28,1,0,91,OK,-38.140946,176.206659,Point,2026-07-10T00:02:12+00:00
+WA-0097,Valve,Scour Valve,Eastern,1970-06-14,1970,56,polyethylene,80,Fair,Active,2026-09-08,2025-09-05,Leak Repair,5,15243.64,3048.73,1,0,308,OK,-38.155606,176.289709,Point,2026-07-10T00:02:12+00:00
+WA-0098,Valve,Isolation Valve,Eastern,2008-05-15,2008,18,PVC,450,Poor,Under Repair,2024-09-11,2026-02-17,Leak Repair,1,4917.3,4917.3,0,0,143,OK,-38.182627,176.289454,Point,2026-07-10T00:02:12+00:00
+WA-0099,Hydrant,Fire Hydrant,Western,1993-02-22,1993,33,polyethylene,300,Good,Active,2025-10-15,2026-09-15,Hydrant Testing,2,7029.45,3514.72,0,0,-67,OK,-38.152216,176.234282,Point,2026-07-10T00:02:12+00:00
+WA-0100,Water Pipe,Distribution Main,Eastern,1998-09-03,1998,28,polyethylene,300,Good,Active,2026-11-02,2022-08-23,Leak Repair,2,8166.79,4083.39,1,0,1417,OK,-38.15363,176.286288,LineString,2026-07-10T00:02:12+00:00

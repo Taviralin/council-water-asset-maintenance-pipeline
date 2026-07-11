@@ -1,0 +1,11 @@
+metric,notes,value
+raw_asset_records,Total records read from water_assets.geojson,100
+valid_asset_records,Asset records passing validation,86
+rejected_asset_records,Asset records rejected by validation rules,14
+raw_maintenance_records,Total records read from maintenance_records.csv,200
+valid_maintenance_records,Maintenance records passing field validation,190
+rejected_maintenance_records,Maintenance records rejected by validation rules,10
+matched_maintenance_records,Valid maintenance records matching valid assets,168
+unmatched_maintenance_records,Valid maintenance records with no matching valid asset,22
+reporting_asset_records,Final asset-level reporting records,86
+assets_without_maintenance,Valid assets with no matched valid maintenance records,13

@@ -1,0 +1,11 @@
+source_record_identifier,rejection_reason,source_file,rejected_timestamp
+WO-00010,Duplicate work_order_id,maintenance_records.csv,2026-07-11 05:18:01.603809
+WO-00010,Duplicate work_order_id,maintenance_records.csv,2026-07-11 05:18:01.603809
+WO-00018,Missing asset_id,maintenance_records.csv,2026-07-11 05:18:01.603809
+WO-00025,Invalid maintenance_date,maintenance_records.csv,2026-07-11 05:18:01.603809
+WO-00034,Completion before maintenance date,maintenance_records.csv,2026-07-11 05:18:01.603809
+WO-00042,Negative cost; Total cost does not match labour plus material,maintenance_records.csv,2026-07-11 05:18:01.603809
+WO-00064,Missing priority,maintenance_records.csv,2026-07-11 05:18:01.603809
+WO-00076,Invalid status,maintenance_records.csv,2026-07-11 05:18:01.603809
+WO-00090,Invalid labour_hours,maintenance_records.csv,2026-07-11 05:18:01.603809
+WO-00117,Total cost does not match labour plus material,maintenance_records.csv,2026-07-11 05:18:01.603809

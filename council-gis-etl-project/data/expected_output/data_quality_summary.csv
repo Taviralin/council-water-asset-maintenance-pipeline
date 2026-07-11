@@ -1,0 +1,11 @@
+metric,value,notes
+total_asset_records,100,Generated mock validation metric
+valid_asset_records,85,Generated mock validation metric
+rejected_asset_records,15,Generated mock validation metric
+duplicate_asset_records,2,Generated mock validation metric
+missing_asset_ids,2,Generated mock validation metric
+invalid_dates,4,Generated mock validation metric
+unmatched_maintenance_records,28,Generated mock validation metric
+invalid_geometries,2,Generated mock validation metric
+duplicate_work_orders,1,Generated mock validation metric
+total_validation_failures,44,Generated mock validation metric
