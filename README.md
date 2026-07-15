@@ -38,7 +38,8 @@ The aim is to integrate these sources into a clean asset-level reporting dataset
 
 The original project was designed around FME Form and FME Flow concepts. However, local FME Form installation was blocked by Windows permission issues involving protected shared DLL files.
 
-To continue the project, the ETL workflow was implemented in Databricks Free Edition. The same integration concepts were still demonstrated:
+To continue the project, the ETL workflow was implemented in Databricks Free Edition. https://dbc-5fd2c55d-5467.cloud.databricks.com/editor/notebooks/3869337634503457?o=7474652376555015
+The same integration concepts were still demonstrated:
 
 - data ingestion
 - cleaning
